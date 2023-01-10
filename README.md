@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDurma
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS, SQL, JavaScript.
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me (mrdurmattv@gmail.com) or @MrDurma Twitter
 
